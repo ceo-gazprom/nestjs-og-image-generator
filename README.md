@@ -1,2 +1,2 @@
-# nestjs-generate-og-image
+# nestjs-og-image-generator
 🧶 An example of the implementation of creating images for open graph meta tags
